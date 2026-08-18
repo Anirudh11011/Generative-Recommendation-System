@@ -2,5 +2,5 @@ item_embeddings.pt
 item_id_maps.pkl
 user_sequences.pkl
 .venv
-meta_Beauty.jason.gz
-reviews_Beauty_5.jason.gz
+meta_Beauty.json.gz
+reviews_Beauty_5.json.gz
