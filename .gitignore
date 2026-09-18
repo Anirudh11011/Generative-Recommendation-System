@@ -7,3 +7,4 @@ reviews_Beauty_5.json.gz
 item_semantic_ids.pt 
 rqvae.pt
 train_token_sequences.pkl
+checkpoints/
